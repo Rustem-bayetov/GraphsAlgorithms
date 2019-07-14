@@ -1,7 +1,7 @@
 # GraphsAlgorithms
 Implementation of Graph for Algorithms course.
 - Depth-First search (DFS)
-- Breadth-Firts search (BFS)
+- Breadth-First search (BFS)
 - Templates
 - Finding path in graph
 - Finding circle in graph
